@@ -1,0 +1,10 @@
+[
+ {"id":"desktop-8k","kind":"desktop","name":"16:9 · 8K UHD","width":7680,"height":4320},
+ {"id":"desktop-4k","kind":"desktop","name":"16:9 · 4K UHD","width":3840,"height":2160},
+ {"id":"desktop-ultrawide","kind":"desktop","name":"21:9 · Ultrawide","width":3440,"height":1440},
+ {"id":"desktop-portrait","kind":"desktop","name":"9:16 · Portrait monitor","width":2160,"height":3840},
+ {"id":"mobile-default","kind":"mobile","name":"9:16 · Universal","width":2160,"height":3840},
+ {"id":"iphone-13-pro-max","kind":"mobile","name":"Apple iPhone 13 Pro Max","width":1284,"height":2778,"source":"https://support.apple.com/en-euro/111870"},
+ {"id":"galaxy-s24-ultra","kind":"mobile","name":"Samsung Galaxy S24 Ultra","width":1440,"height":3120,"source":"https://www.samsung.com/ae/support/mobile-devices/what-are-the-sizes-and-the-resolution-of-the-new-s24-series/"},
+ {"id":"pixel-9-pro","kind":"mobile","name":"Google Pixel 9 Pro","width":1280,"height":2856,"source":"https://support.google.com/pixelphone/answer/7158570"}
+]
