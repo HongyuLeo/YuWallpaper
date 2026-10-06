@@ -1,5 +1,9 @@
 # Validation — v0.2.0
 
+## Documentation screenshot correction
+
+Chinese desktop, phone and empty-state screenshots were regenerated with Noto Sans SC installed in the capture environment. The previous images showed missing-glyph boxes because that environment lacked a CJK font. The replacement images were visually inspected for readable Chinese text. This corrects documentation images; application code is unchanged. Future Chinese screenshot captures must use a CJK-capable font and be visually checked before publication.
+
 ## Passed in this build environment
 
 - Python unit / integration suite: 17 tests, including foreground pixel preservation, EXIF orientation, crop coverage, particle periodicity, effect protection, invalid dimensions, real FFmpeg encoding, cancellation, authenticated loopback access, cross-origin rejection, traversal rejection, upload-to-export workflow, output byte ranges, and completed-history restoration.
